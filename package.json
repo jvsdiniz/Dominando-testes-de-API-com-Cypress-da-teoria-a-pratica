@@ -1,0 +1,15 @@
+{
+  "name": "curso-dominando-testes-de-api-com-cypress",
+  "version": "1.0.0",
+  "description": "Projeto realizado para aprendizado sobre automação de testes de API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Diniz",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.11.0",
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
